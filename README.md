@@ -1,6 +1,8 @@
 # Poker-99
 網路撲克牌-99，以C++ Builder 16撰寫，透過Socket達成四名玩家同時連線遊玩，並由Server同步所有Client手中的牌況及出排順序等
 
+左邊為Server，右邊為兩家Client
+
 ![image](https://github.com/Majjor140/Poker-99/assets/117829042/e9be3c4c-6ea3-424e-a8ac-f2b1127cf441)
 
 遊玩流程如下:
